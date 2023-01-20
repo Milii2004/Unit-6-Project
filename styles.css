@@ -1,0 +1,169 @@
+body {
+    color: #F2F75C;
+    text-align: center;
+    font-family: 'courier new', serif;
+    background-color: #E782A9;
+}
+
+.title {
+    font-size: 20px;
+    background-color: #E782A9;
+    font-weight: 600;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+.firstImage {
+    height: 350px;
+}
+
+.secondImage {
+    height: 200px;
+}
+
+.yes-button {
+    border: 8px dotted #5AC6B8;
+    padding: 20px 32px;
+    font-size: 16px;
+    font-family: cursive;
+    color: grey;
+    background-color: #ECE79B;
+}
+
+#one {
+    font-size: 50px;
+    color: black;
+}
+
+#two {
+    font-size: 20px;
+    color: black;
+    background-color: #FFA3C0;
+    border: 5px groove white;
+    padding: 50px;
+}
+
+#three {
+    font-size: 40px;
+    color: black;
+    background-color: #FFA3C0;
+    border: 5px groove white;
+    padding: 50px;
+}
+
+#four {
+    font-size: 80px;
+    color: white;
+    font-family: cursive;
+}
+
+#five {
+    font-size: 40px;
+    font-family: fantasy;
+    color: black;
+}
+
+#six {
+    font-size: 20px;
+    color: black;
+    background-color: #FFA3C0;
+    border: 5px groove white;
+    padding: 50px;
+}
+
+#seven {
+    font-size: 20px;
+    color: black;
+    background-color: #FFA3C0;
+    border: 5px groove white;
+    padding: 50px;
+}
+
+.yes{
+    border: 13px double white;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-family: cursive;
+    color: grey;
+    background-color: #FFFAAA; 
+}
+
+.no{
+    border: 13px double white;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-family: cursive;
+    color: grey;
+    background-color: #FFFAAA; 
+}
+
+.yes2{
+    border: 15px double #8BE4DB;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-family: cursive;
+    color: grey;
+    background-color: #FFFAAA; 
+}
+
+.no2{
+    border: 15px double #8BE4DB;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-family: cursive;
+    color: grey;
+    background-color: #FFFAAA; 
+}
+
+.day-1{
+    display:none;
+    font-family: fantasy;
+}
+
+.disney-yes{
+    display:none;
+}
+
+.disney-no{
+    display:none;
+}
+
+.day-2{
+    display:none;
+}
+
+.universal-yes{
+    display:none;
+}
+
+.universal-no{
+    display:none;
+}
+
+.pool {
+    width: 500px;
+	height: 300px;
+}
+
+.disney-rain {
+    width: 500px;
+	height: 300px;
+}
+
+.universal {
+    width: 400px;
+	height: 200px;
+    padding: 20px;
+    border: 3px outset white;
+}
+
+.home {
+    width: 500px;
+	height: 300px;
+}
+
